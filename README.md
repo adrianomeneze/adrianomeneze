@@ -13,11 +13,11 @@
 
 ## 📈 Estatísticas do GitHub
 
-![Adriano's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adrianocgm&show_icons=true&theme=github_dark&hide_title=true)
+![Adriano's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adrianomeneze&show_icons=true&theme=github_dark&hide_title=true)
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianocgm&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianomeneze&layout=compact&theme=github_dark)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=adrianocgm&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=adrianomeneze&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 
 ## 🔗 Conecte-se comigo
 
